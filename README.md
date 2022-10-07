@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenyx6
 - 👀 I’m interested in Wireless Communication
-- 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on AI & Network
+- 🌱 I’m currently learning Python & C (Ongoing), C++ & Java (Planning)
+- 💞️ I’m looking to collaborate on Hardware & Network field
 - 📫 How to reach me by DM
 
 <!---
